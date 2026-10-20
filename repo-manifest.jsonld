@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/klen/inirama/commit/3ec7c84b183b17a04aaf76e16f2a0ddf1c4633bb",
       "git:hexsha": "3ec7c84b183b17a04aaf76e16f2a0ddf1c4633bb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T21:27:19.432528+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/inirama/commit/a684050f71665d44239e11ef5de8e1d187267e07",
